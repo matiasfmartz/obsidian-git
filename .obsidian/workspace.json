@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "031bd3db36b667c5",
+        "id": "3a2e4c275f99923b",
         "type": "tabs",
         "children": [
           {
-            "id": "d24d0209c964f232",
+            "id": "5fc39d09dec30569",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -136,12 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Sin título.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Sin título"
             }
           }
         ]
@@ -163,10 +164,13 @@
   },
   "active": "c098ebfde11577d9",
   "lastOpenFiles": [
-    "personal/reflex/Unidos con proposito.pdf",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
     "personal/reflex/Identidad.pdf",
-    "personal/reflex/Fieles en el rechazo, con el corazón de Cristo.md",
+    "personal/reflex/Unidos con proposito.pdf",
+    "Sin título.md",
     "personal/reflex/CRONOLOGÍA DE ESTEBAN EN HECHOS CON ENSEÑANZAS CLAVES.md",
+    "personal/reflex/Fieles en el rechazo, con el corazón de Cristo.md",
     "personal/reflex",
     "personal"
   ]
