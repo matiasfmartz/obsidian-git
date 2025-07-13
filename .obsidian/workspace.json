@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "730f70642319d110",
+        "id": "784e0a11342ae862",
         "type": "tabs",
         "children": [
           {
-            "id": "6f59b577bccb2e0b",
+            "id": "83d72dddf8c44a1a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -136,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sin título.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Sin título"
+              "title": "Esquema"
             }
           },
           {
@@ -173,42 +172,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f59b577bccb2e0b",
+  "active": "2d267ffc08958487",
   "lastOpenFiles": [
-    "personal/mati.json content/El CV definitivo.md",
-    "personal/mati.json content/¿Qué es la felicidad? ¿Y por qué muchas veces sentimos que se nos escapa?.md",
-    "personal/mati.json content",
-    "personal/reflex/El proposito es YA.md",
-    "personal/reflex/El camino la verdad y la vida.md",
-    "personal/reflex/Conducta intachable.md",
-    "personal/reflex/Buscar primero a Dios.md",
-    "personal/reflex/Vida social y redes sociales.md",
-    "personal/reflex/Ambito social y redes sociales.md",
-    "personal/utn/Ingreso/Sin título.md",
-    "personal/utn/Ingreso",
-    "personal/utn",
-    "personal/reflex/Semana de santificacion.md",
-    "personal/reflex/Hagamos todo de buena gana.md",
-    "personal/reflex/El rey Josias.md",
-    "personal/reflex/Entregemosno a Dios.md",
-    "personal/reflex/Jovenes adultos - distracciones.md",
-    "personal/reflex/La economia del cristiano.md",
-    "personal/reflex/Encontrando mi media naranja.md",
-    "personal/reflex/Llamados a ser de bendicion.md",
-    "personal/reflex/Pedro camina sobre las aguas.md",
-    "personal/reflex/Unidos con proposito.md",
-    "personal/reflex/Fieles en el rechazo, con el corazón de Cristo.md",
-    "personal/reflex/Tomas no creyó.md",
-    "personal/reflex/Miedo al fracaso (factum).md",
-    "personal/reflex/Los enemigos.md",
-    "personal/reflex/Seamos la sal.md",
-    "personal/reflex/José.md",
-    "personal/reflex/Noviazgo.md",
-    "Sin título 1.canvas",
+    "mati.json content/¿Qué es la felicidad? ¿Y por qué muchas veces sentimos que se nos escapa?.md",
+    "reflex/Vida social y redes sociales.md",
+    "reflex/Unidos con proposito.md",
+    "reflex/Traigamos paz.md",
+    "reflex/Tomas no creyó.md",
+    "reflex/Servicio.md",
+    "reflex/Semana de santificacion.md",
+    "reflex/Seamos la sal.md",
+    "reflex/Seamos Luz.md",
+    "reflex/Quien soy?.md",
+    "reflex/Preparados en todo momento.md",
+    "reflex/Pedro camina sobre las aguas.md",
+    "reflex/Pedid y se os dará.md",
+    "reflex/Pagar el precio por Jesus.md",
+    "reflex/Ofrendas.md",
+    "reflex/Noviazgo.md",
+    "reflex/No pierdas el foco.md",
+    "reflex/Miedo al fracaso (factum).md",
+    "reflex/Mi religion no me permite.md",
+    "reflex/Los planes de Dios son mas altos.md",
+    "reflex/Los enemigos.md",
+    "reflex/Llamados a ser de bendicion.md",
+    "reflex/La economia del cristiano.md",
+    "reflex/Jovenes adultos - distracciones.md",
+    "reflex/José.md",
+    "reflex/Hagamos todo de buena gana.md",
+    "reflex",
+    "mati.json content",
     "Sin título.canvas",
+    "personal/mati.json content 1",
+    "utn/Ingreso",
+    "utn",
+    "Sin título 1.canvas",
     "personal/reflex/Identidad.pdf",
     "personal/reflex/Unidos con proposito.pdf",
-    "personal/reflex",
+    "personal/reflex 1",
     "personal"
   ]
 }
