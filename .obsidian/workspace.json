@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3a2e4c275f99923b",
+        "id": "730f70642319d110",
         "type": "tabs",
         "children": [
           {
-            "id": "5fc39d09dec30569",
+            "id": "6f59b577bccb2e0b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -144,13 +144,23 @@
               "icon": "lucide-list",
               "title": "Esquema de Sin título"
             }
+          },
+          {
+            "id": "2d267ffc08958487",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,37 +169,41 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fc39d09dec30569",
+  "active": "6f59b577bccb2e0b",
   "lastOpenFiles": [
+    "personal/mati.json content/El CV definitivo.md",
+    "personal/mati.json content/¿Qué es la felicidad? ¿Y por qué muchas veces sentimos que se nos escapa?.md",
+    "personal/mati.json content",
+    "personal/reflex/El proposito es YA.md",
+    "personal/reflex/El camino la verdad y la vida.md",
+    "personal/reflex/Conducta intachable.md",
+    "personal/reflex/Buscar primero a Dios.md",
     "personal/reflex/Vida social y redes sociales.md",
+    "personal/reflex/Ambito social y redes sociales.md",
+    "personal/utn/Ingreso/Sin título.md",
+    "personal/utn/Ingreso",
+    "personal/utn",
     "personal/reflex/Semana de santificacion.md",
     "personal/reflex/Hagamos todo de buena gana.md",
     "personal/reflex/El rey Josias.md",
     "personal/reflex/Entregemosno a Dios.md",
-    "personal/reflex/El proposito es YA.md",
     "personal/reflex/Jovenes adultos - distracciones.md",
     "personal/reflex/La economia del cristiano.md",
-    "personal/reflex/Conducta intachable.md",
     "personal/reflex/Encontrando mi media naranja.md",
     "personal/reflex/Llamados a ser de bendicion.md",
     "personal/reflex/Pedro camina sobre las aguas.md",
     "personal/reflex/Unidos con proposito.md",
-    "personal/reflex/Ambito social y redes sociales.md",
     "personal/reflex/Fieles en el rechazo, con el corazón de Cristo.md",
     "personal/reflex/Tomas no creyó.md",
-    "personal/reflex/El camino la verdad y la vida.md",
     "personal/reflex/Miedo al fracaso (factum).md",
     "personal/reflex/Los enemigos.md",
     "personal/reflex/Seamos la sal.md",
     "personal/reflex/José.md",
     "personal/reflex/Noviazgo.md",
-    "personal/reflex/Traigamos paz.md",
-    "personal/reflex/Servicio.md",
-    "personal/reflex/Pedid y se os dará.md",
-    "personal/reflex/Ofrendas.md",
     "Sin título 1.canvas",
     "Sin título.canvas",
     "personal/reflex/Identidad.pdf",
