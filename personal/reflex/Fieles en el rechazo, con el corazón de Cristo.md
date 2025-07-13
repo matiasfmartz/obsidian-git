@@ -33,7 +33,7 @@
 ---
 
 ### 🪧 Punto 2: **La verdad debe proclamarse con poder y con fruto del Espíritu**
-
+[[Preparados en todo momento]]
 **Texto base:** Hechos 6:8-10 / Gálatas 5:22-23
 
 - Esteban predicaba con sabiduría y poder, pero también con un carácter lleno de gracia.
@@ -49,7 +49,7 @@
 
 ### 🪧 Punto 3: **La respuesta del cristiano al odio es el amor y el perdón**
 
-**Texto base:** Hechos 7:60 / Lucas 23:34
+**Texto base:** Hechos 7:60 / Lucas 23:34 [[CRONOLOGÍA DE ESTEBAN EN HECHOS CON ENSEÑANZAS CLAVES]]
 
 - Esteban ora por sus agresores, como Jesús en la cruz.
     
