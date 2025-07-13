@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "784e0a11342ae862",
+        "id": "c450aca7ffa8a4be",
         "type": "tabs",
         "children": [
           {
-            "id": "83d72dddf8c44a1a",
+            "id": "7c05a24f7b2a2745",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "reflex/Diferentes al resto.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Diferentes al resto"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "reflex/Diferentes al resto.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Diferentes al resto"
             }
           },
           {
@@ -136,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "reflex/Diferentes al resto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Diferentes al resto"
             }
           },
           {
@@ -172,34 +178,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d267ffc08958487",
+  "active": "7c05a24f7b2a2745",
   "lastOpenFiles": [
-    "mati.json content/¿Qué es la felicidad? ¿Y por qué muchas veces sentimos que se nos escapa?.md",
+    "reflex/CRONOLOGÍA DE ESTEBAN EN HECHOS CON ENSEÑANZAS CLAVES.md",
+    "reflex/Conducta intachable.md",
+    "reflex/Llamados a ser de bendicion.md",
+    "reflex/Pedid y se os dara.md",
+    "reflex/Los planes de Dios son mas altos.md",
+    "reflex/Miedo al fracaso-factum.md",
+    "reflex/Diezmos y ofrendas.md",
+    "reflex/Tomas no creyo.md",
+    "reflex/Quien soy.md",
+    "reflex/Estas marcando vidas.md",
+    "reflex/Diferentes al resto.md",
+    "mati.json content/La felicidad.md",
+    "mati.json content/El CV definitivo.md",
     "reflex/Vida social y redes sociales.md",
     "reflex/Unidos con proposito.md",
     "reflex/Traigamos paz.md",
-    "reflex/Tomas no creyó.md",
     "reflex/Servicio.md",
     "reflex/Semana de santificacion.md",
     "reflex/Seamos la sal.md",
     "reflex/Seamos Luz.md",
-    "reflex/Quien soy?.md",
     "reflex/Preparados en todo momento.md",
     "reflex/Pedro camina sobre las aguas.md",
-    "reflex/Pedid y se os dará.md",
     "reflex/Pagar el precio por Jesus.md",
     "reflex/Ofrendas.md",
     "reflex/Noviazgo.md",
     "reflex/No pierdas el foco.md",
-    "reflex/Miedo al fracaso (factum).md",
-    "reflex/Mi religion no me permite.md",
-    "reflex/Los planes de Dios son mas altos.md",
-    "reflex/Los enemigos.md",
-    "reflex/Llamados a ser de bendicion.md",
-    "reflex/La economia del cristiano.md",
-    "reflex/Jovenes adultos - distracciones.md",
-    "reflex/José.md",
-    "reflex/Hagamos todo de buena gana.md",
     "reflex",
     "mati.json content",
     "Sin título.canvas",

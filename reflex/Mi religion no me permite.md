@@ -16,7 +16,7 @@ Seguir a jesus es una relacion de amor. yo no puedo obligar a alguien a amarme.
 
 Tu vida, tu comportamiento, tus actitudes son el resultado de tu amor por Dios, no es para que el te ame, es porque el te ama.
 
-### Pertenecemos a Dios ---> [[Quien soy?]]
+### Pertenecemos a Dios ---> [[Quien soy]]
 
 Seguir a Jesus es un cambio tan radical que implica involucrarlo a Dios en absolutamente toda tu vida.
 
