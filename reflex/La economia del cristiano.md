@@ -144,7 +144,7 @@
 
 ## ✅ Conclusión: Claves para una economía santa y bendecida
 
-1. Reconocer que **Dios es la fuente** de nuestras riquezas (Dt. 8:17–18)
+1. Reconocer que **Dios es la fuente** de nuestras riquezas (Dt. 8:17–18) [[Diezmos y ofrendas]]
 2. **Evitar la esclavitud de las deudas** (Rom 13:8; Prov 22:7)
 3. Rechazar el **dinero injusto o mal habido** (Prov 10:22)
 4. Administrar con orden y previsión (Luc 14:28; Prov 21:20)

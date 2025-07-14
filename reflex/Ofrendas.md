@@ -1,4 +1,4 @@
-1- las ofrendas no tiene que ver tanto por el **dar** si no por saber que toda tu **vida le pertenece a Dios**
+1- las ofrendas no tiene que ver tanto por el **dar** si no por saber que toda tu **vida le pertenece a Dios** [[Diezmos y ofrendas]]]
 
 Ahi es cuando dar no duele, porque entendes que no es tuyo.
 
