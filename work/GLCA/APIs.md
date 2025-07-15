@@ -37,9 +37,7 @@ Solo para el arquetipo POM, Galicia documenta el microservicio, las funcionalida
 
 Este proceso de alta en BO, se puede dar en cualquier instancia del desarrollo, no hace falta que este terminada la api o no haberla arrancado, pero se recomienda hacerlo antes de iniciar para no tener problemas en pruebas locales ya que para funcionar la api, el arquetipo POM consulta las funcionalidades.
 
-<aside> 💡 **Consejo extra:** Utilizar para cada apartado una api similar de ejemplo.
-
-</aside>
+💡 **Consejo extra:** Utilizar para cada apartado una api similar de ejemplo.
 
 ## APIM 🔐
 
