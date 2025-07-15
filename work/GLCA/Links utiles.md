@@ -1,9 +1,3 @@
-# AppDynamics - Métricas
-
-[Dashboard AppDynamics GPAG](https://bancogalicia-prod.saas.appdynamics.com/controller/#/location=APP_DASHBOARD&timeRange=last_1_hour.BEFORE_NOW.-1.-1.60&application=3764&dashboardMode=force)
-
----
-
 # Credenciales APIM
 
 ## GPAG
@@ -118,3 +112,4 @@ Dashboard Kibana PPAG - http://dkibana11.bancogalicia.com.ar:5601/s/openshift/ap
 - **Base de conocimiento** - https://bancogaliciaprod.service-now.com/sp?id=index
 - **Repositorio CNET** - https://github.bancogalicia.com.ar/cnet-crossnetcore
 - **Reporte Veracode** - https://myapps.microsoft.com/signin/Veracode/d6d6fd65-7442-4be7-9c02-4125bcbbc3e9?tenantId=934de3fe-416c-4e4c-b035-32df9344eac4) ^35cb34
+- **Dashboard AppDynamics** - https://bancogalicia-prod.saas.appdynamics.com/controller/#/location=APP_DASHBOARD&timeRange=last_1_hour.BEFORE_NOW.-1.-1.60&application=3764&dashboardMode=force
