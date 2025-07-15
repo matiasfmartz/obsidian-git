@@ -82,7 +82,6 @@ Application key ba8ef6250828691338211b82fa46b86b
 ---
 
 # URLs Kibana
-
 ## GPAG
 Dashboard Kibana GPAG - http://dkibana11.bancogalicia.com.ar:5601/s/openshift/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now)))&_a=(columns:!(),filters:!(),index:'7e6ea2f0-f8f4-11ea-98c2-d1283300ba47',interval:auto,query:(language:kuery,query:''),sort:!(!('@timestamp',desc)))
 
@@ -114,3 +113,4 @@ Dashboard Kibana PPAG - http://dkibana11.bancogalicia.com.ar:5601/s/openshift/ap
 - **Reporte Veracode** - https://myapps.microsoft.com/signin/Veracode/d6d6fd65-7442-4be7-9c02-4125bcbbc3e9?tenantId=934de3fe-416c-4e4c-b035-32df9344eac4) ^35cb34
 - **Dashboard AppDynamics** - https://bancogalicia-prod.saas.appdynamics.com/controller/#/location=APP_DASHBOARD&timeRange=last_1_hour.BEFORE_NOW.-1.-1.60&application=3764&dashboardMode=force
 - **Brick SPA Starter Kit** - https://github.bancogalicia.com.ar/febg-commons/brick-spa-starter-kit ^41e9d4
+- **Jenkins** - https://devopstoolkit.bancogalicia.com.ar/blue/pipelines/
