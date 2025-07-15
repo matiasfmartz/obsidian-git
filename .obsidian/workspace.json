@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3ab9010f550de958",
+        "id": "9b76d340777ab733",
         "type": "tabs",
         "children": [
           {
-            "id": "6ecfef5d3d4585be",
+            "id": "37a331bfdde50d81",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Multimedia igle/Areas.md",
-                "bFile": "Multimedia igle/Areas.md",
-                "aRef": ""
+                "file": "work/GLCA/Links utiles.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Areas"
+              "icon": "lucide-file",
+              "title": "Links utiles"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 242.5
   },
   "right": {
     "id": "5baa5b03375301ac",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reflex/Diferentes al resto.md",
+                "file": "work/GLCA/Links utiles.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Diferentes al resto"
+              "title": "Enlaces entrantes de Links utiles"
             }
           },
           {
@@ -141,16 +141,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "work/GLCA/Links utiles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Esquema de Links utiles"
             }
           },
           {
-            "id": "e25b4e7eac7e3f54",
+            "id": "2d267ffc08958487",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -168,30 +169,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ecfef5d3d4585be",
+  "active": "de2433ac1d5e08f4",
   "lastOpenFiles": [
-    "reflex/Diezmos y ofrendas.md",
-    "reflex/Los planes de Dios son mas altos.md",
-    "reflex/Ofrendas.md",
-    "reflex/La economia del cristiano.md",
+    "work/GLCA/APIs.md",
+    "work/GLCA/ONB.md",
+    "work/GLCA/Links utiles.md",
+    "work/GLCA",
+    "work",
+    "reflex/Ambito social y redes sociales.md",
+    "reflex/CRONOLOGÍA DE ESTEBAN EN HECHOS CON ENSEÑANZAS CLAVES.md",
     "mati.json content/La felicidad.md",
     "mati.json content/El CV definitivo.md",
+    "reflex/Buscar primero a Dios.md",
+    "reflex/Conducta intachable.md",
     "Multimedia igle/Areas.md",
     "reflex/Diferentes al resto.md",
-    "reflex/CRONOLOGÍA DE ESTEBAN EN HECHOS CON ENSEÑANZAS CLAVES.md",
-    "reflex/Conducta intachable.md",
+    "Multimedia igle",
     "reflex/Llamados a ser de bendicion.md",
     "reflex/Pedid y se os dara.md",
+    "reflex/Los planes de Dios son mas altos.md",
     "reflex/Miedo al fracaso-factum.md",
+    "reflex/Diezmos y ofrendas.md",
     "reflex/Tomas no creyo.md",
     "reflex/Quien soy.md",
     "reflex/Estas marcando vidas.md",
@@ -202,9 +209,6 @@
     "reflex/Semana de santificacion.md",
     "reflex/Seamos la sal.md",
     "reflex/Seamos Luz.md",
-    "reflex/Preparados en todo momento.md",
-    "reflex/Pedro camina sobre las aguas.md",
-    "reflex/Pagar el precio por Jesus.md",
     "reflex",
     "mati.json content",
     "Sin título.canvas",
@@ -213,8 +217,6 @@
     "utn",
     "Sin título 1.canvas",
     "personal/reflex/Identidad.pdf",
-    "personal/reflex/Unidos con proposito.pdf",
-    "personal/reflex 1",
-    "personal"
+    "personal/reflex/Unidos con proposito.pdf"
   ]
 }
