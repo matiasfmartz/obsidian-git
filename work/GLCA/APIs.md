@@ -52,13 +52,9 @@ Todos los microservicios de Galicia son gestionados mediante APIM a partir de In
 
 	⚠️ **Importante:** el endpoint del controller tiene que estar documentado con summary en el codigo, para generar correctamente el swagger.json que luego va a ser solicitado.
 	ejemplo:
-		`/// <summary>`
-        `/// Inicia operacion de solicitud de alta de baja de cuenta`
-        `/// </summary>`
-        `/// <param name="request"></param>`
-        `/// <returns></returns>`
-        `[HttpPost("closure-request", Name = "ClosureRequest")]`
-		`public async Task<IActionResult> ClosureRequest(AccountClosureRequest request)`
+	
+        [SwaggerOperation(Summary = "Endpoint functionality description")]
+        [HttpPost("post", Name = "EndpointName")]
 
 
 - Al solicitar el swagger, hay que colocar la url del archivo json que esta en el swagger de la api en dev.
