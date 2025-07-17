@@ -45,6 +45,9 @@ Todos los microservicios de Galicia son gestionados mediante APIM a partir de In
 
 ### 1- Publicar API en APIM
 
+El servicio se publica en apim **solo si es necesario exponer la url fuera de la sigla**. Si el servicio va a ser consumido por otros servicios dentro de la misma sigla no es necesario publicar en apim (de hecho, es considerado inseguro), se debe consumir mediante la url del cluster directamente que la encontras en OCP ([[Links utiles#^ff42d6]]) -> seccion administrador -> networking -> services -> (seleccionas el servicio) -> en la seccion Details en el apartado "Service Routing" donde dice "Hostname". A esta direccion de cluster, se le agrega antes el **http://** {{hostname}} **:8080** /{{endpoint}}
+
+Si el servicio es necesario publicarlo en APIM se realizan los siguientes pasos:
 - previamente a publicar en apim, jenkins solicita que debe estar deployado al menos en INT y pasar correctamente las revisiones de veracode.
     
     - [[Links utiles#^35cb34]] → review modules → advanced mode → seleccionar dll correspondiente al nombre del microservicio.

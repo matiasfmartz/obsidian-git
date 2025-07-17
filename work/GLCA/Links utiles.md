@@ -58,6 +58,8 @@ Application key ba8ef6250828691338211b82fa46b86b
 
 # URLs OCP4
 
+^ff42d6
+
 - **Dev** - https://console-openshift-console.apps.paas-dev.bancogalicia.com.ar
 - **Stg** - https://console-openshift-console.apps.paas-stg.bancogalicia.com.ar
 - **Qas** - https://console-openshift-console.apps.paas-qas.bancogalicia.com.ar
