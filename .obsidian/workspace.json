@@ -11,10 +11,17 @@
             "id": "b8a09016480ba107",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Multimedia igle/pantallas/opción 2/Pantallas 2.canvas",
+                "viewState": {
+                  "x": 200,
+                  "y": 60,
+                  "zoom": -0.46847675824030416
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Pantallas 2"
             }
           }
         ]
@@ -137,12 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Multimedia igle/pantallas/opción 2/Pantallas 2.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Pantallas 2"
             }
           },
           {
@@ -175,6 +183,14 @@
   },
   "active": "b8a09016480ba107",
   "lastOpenFiles": [
+    "Multimedia igle/pantallas/opción 2/Transmisión red obs ndi.md",
+    "Multimedia igle/pantallas/opción 1/Pantallas 1.canvas",
+    "Multimedia igle/pantallas/opción 2/Pantallas 2.canvas",
+    "Multimedia igle/pantallas/Conexion Pantallas.md",
+    "Multimedia igle/pantallas/opción 1/hdmi over ip.md",
+    "Multimedia igle/pantallas",
+    "Multimedia igle/pantallas/opción 2",
+    "Multimedia igle/pantallas/opción 1",
     "work/GLCA/APIs.md",
     "work/GLCA/Links utiles.md",
     "work/GLCA/SPA.md",
@@ -199,19 +215,12 @@
     "mati.json content/El CV definitivo.md",
     "reflex/Los planes de Dios son mas altos.md",
     "reflex/Ofrendas.md",
-    "reflex/La economia del cristiano.md",
-    "reflex/Llamados a ser de bendicion.md",
-    "reflex/Pedid y se os dara.md",
-    "reflex/Miedo al fracaso-factum.md",
     "reflex",
     "mati.json content",
     "Sin título.canvas",
     "personal/mati.json content 1",
     "utn/Ingreso",
     "utn",
-    "Sin título 1.canvas",
-    "personal/reflex/Identidad.pdf",
-    "personal/reflex/Unidos con proposito.pdf",
-    "personal/reflex 1"
+    "Sin título 1.canvas"
   ]
 }
