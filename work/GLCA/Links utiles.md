@@ -114,3 +114,4 @@ Dashboard Kibana PPAG - http://dkibana11.bancogalicia.com.ar:5601/s/openshift/ap
 - **Dashboard AppDynamics** - https://bancogalicia-prod.saas.appdynamics.com/controller/#/location=APP_DASHBOARD&timeRange=last_1_hour.BEFORE_NOW.-1.-1.60&application=3764&dashboardMode=force
 - **Brick SPA Starter Kit** - https://github.bancogalicia.com.ar/febg-commons/brick-spa-starter-kit ^41e9d4
 - **Jenkins** - https://devopstoolkit.bancogalicia.com.ar/blue/pipelines/
+- catalogo APIM - https://apim-catalogo-frontend-icta-ictransapi-prd.apps.paas-prd.bancogalicia.com.ar/apim/apis/?ENV=PRD

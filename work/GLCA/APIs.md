@@ -49,8 +49,19 @@ Todos los microservicios de Galicia son gestionados mediante APIM a partir de In
     
     - [[Links utiles#^35cb34]] → review modules → advanced mode → seleccionar dll correspondiente al nombre del microservicio.
 - En la sigla correspondiente al microservicio, seleccionar opcion Middleware → Administrar Api → Publicar Api.
-    
-- Al solicitar la URL, hay que colocar la url del archivo json que esta en el swagger de la api en dev.
+
+	⚠️ **Importante:** el endpoint del controller tiene que estar documentado con summary en el codigo, para generar correctamente el swagger.json que luego va a ser solicitado.
+	ejemplo:
+		`/// <summary>`
+        `/// Inicia operacion de solicitud de alta de baja de cuenta`
+        `/// </summary>`
+        `/// <param name="request"></param>`
+        `/// <returns></returns>`
+        `[HttpPost("closure-request", Name = "ClosureRequest")]`
+		`public async Task<IActionResult> ClosureRequest(AccountClosureRequest request)`
+
+
+- Al solicitar el swagger, hay que colocar la url del archivo json que esta en el swagger de la api en dev.
     ⚠️ **Importante:** a partir del ambiente de Homologacion (QAS) jenkins solicita aprobacion del Technical Owner (el Product Owner tambien deberia poder aprobarlo)
     
 

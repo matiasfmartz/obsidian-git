@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40831043c1e56e48",
+        "id": "eeb7c909e8fafbdd",
         "type": "tabs",
         "children": [
           {
-            "id": "f626c7ea513b6a9a",
+            "id": "4ae2facb438c5daa",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -57,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5baa5b03375301ac",
@@ -173,12 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c098ebfde11577d9",
+  "active": "4ae2facb438c5daa",
   "lastOpenFiles": [
-    "work/GLCA/Links utiles.md",
     "work/GLCA/APIs.md",
-    "work/GLCA/ONB.md",
+    "work/GLCA/Links utiles.md",
+    "work/GLCA/prompts.md",
     "work/GLCA/SPA.md",
+    "work/GLCA/ONB.md",
     "reflex/Hagamos todo de buena gana.md",
     "reflex/Estas marcando vidas.md",
     "reflex/Diezmos y ofrendas.md",
@@ -202,7 +203,6 @@
     "reflex/Llamados a ser de bendicion.md",
     "reflex/Pedid y se os dara.md",
     "reflex/Miedo al fracaso-factum.md",
-    "reflex/Tomas no creyo.md",
     "reflex",
     "mati.json content",
     "Sin título.canvas",
