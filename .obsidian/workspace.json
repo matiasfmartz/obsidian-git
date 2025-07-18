@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ab540c201a770929",
+        "id": "a004a01729f9ee23",
         "type": "tabs",
         "children": [
           {
-            "id": "b8a09016480ba107",
+            "id": "d6c6c15e5b554825",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Multimedia igle/pantallas/opción 2/Pantallas 2.canvas",
-                "viewState": {
-                  "x": 200,
-                  "y": 60,
-                  "zoom": -0.46847675824030416
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Pantallas 2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -47,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -64,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -74,14 +67,14 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 242.5
   },
   "right": {
     "id": "5baa5b03375301ac",
@@ -97,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reflex/Diferentes al resto.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Diferentes al resto"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -144,17 +136,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multimedia igle/pantallas/opción 2/Pantallas 2.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pantallas 2"
+              "title": "Esquema"
             }
           },
           {
-            "id": "e25b4e7eac7e3f54",
+            "id": "2d267ffc08958487",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -172,55 +163,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8a09016480ba107",
+  "active": "c098ebfde11577d9",
   "lastOpenFiles": [
-    "Multimedia igle/pantallas/opción 2/Transmisión red obs ndi.md",
-    "Multimedia igle/pantallas/opción 1/Pantallas 1.canvas",
-    "Multimedia igle/pantallas/opción 2/Pantallas 2.canvas",
     "Multimedia igle/pantallas/Conexion Pantallas.md",
     "Multimedia igle/pantallas/opción 1/hdmi over ip.md",
-    "Multimedia igle/pantallas",
+    "Multimedia igle/pantallas/opción 2/Pantallas 2.canvas",
+    "Multimedia igle/pantallas/opción 1/Pantallas 1.canvas",
+    "work/GLCA/APIs.md",
+    "Multimedia igle/pantallas/opción 2/Transmisión red obs ndi.md",
     "Multimedia igle/pantallas/opción 2",
     "Multimedia igle/pantallas/opción 1",
-    "work/GLCA/APIs.md",
-    "work/GLCA/Links utiles.md",
-    "work/GLCA/SPA.md",
+    "Multimedia igle/pantallas",
     "work/GLCA/prompts.md",
+    "work/GLCA/Links utiles.md",
     "work/GLCA/ONB.md",
-    "reflex/Conducta intachable.md",
-    "reflex/Hagamos todo de buena gana.md",
-    "reflex/Estas marcando vidas.md",
-    "reflex/Diezmos y ofrendas.md",
-    "reflex/CRONOLOGÍA DE ESTEBAN EN HECHOS CON ENSEÑANZAS CLAVES.md",
-    "2025-07-15.md",
+    "work/GLCA/SPA.md",
+    "reflex/Diferentes al resto.md",
+    "mati.json content/La felicidad.md",
+    "mati.json content/El CV definitivo.md",
     "work/GLCA",
     "work",
-    "reflex/Entregemosno a Dios.md",
-    "reflex/Buscar primero a Dios.md",
-    "reflex/El camino la verdad y la vida.md",
-    "mati.json content/La felicidad.md",
-    "reflex/El poder del espiritu santo.md",
-    "reflex/Diferentes al resto.md",
-    "Multimedia igle/Areas.md",
     "reflex/Ambito social y redes sociales.md",
-    "mati.json content/El CV definitivo.md",
+    "reflex/CRONOLOGÍA DE ESTEBAN EN HECHOS CON ENSEÑANZAS CLAVES.md",
+    "reflex/Buscar primero a Dios.md",
+    "reflex/Conducta intachable.md",
+    "Multimedia igle/Areas.md",
+    "Multimedia igle",
+    "reflex/Llamados a ser de bendicion.md",
+    "reflex/Pedid y se os dara.md",
     "reflex/Los planes de Dios son mas altos.md",
-    "reflex/Ofrendas.md",
+    "reflex/Miedo al fracaso-factum.md",
+    "reflex/Diezmos y ofrendas.md",
+    "reflex/Tomas no creyo.md",
+    "reflex/Quien soy.md",
+    "reflex/Estas marcando vidas.md",
+    "reflex/Vida social y redes sociales.md",
     "reflex",
     "mati.json content",
     "Sin título.canvas",
     "personal/mati.json content 1",
     "utn/Ingreso",
-    "utn",
     "Sin título 1.canvas"
   ]
 }
