@@ -5,7 +5,6 @@
 HDMI over IP permite enviar señales de video HDMI a través de una red local usando transmisores y receptores dedicados. Es útil para transmitir contenido sincronizado a múltiples TVs o proyectores sin usar PC intermedias.
 
 ---
-
 ### 🛠 Requisitos
 
 - PC con **múltiples salidas HDMI** (dedicadas por contenido a transmitir).
@@ -20,20 +19,6 @@ HDMI over IP permite enviar señales de video HDMI a través de una red local us
 ## 🖥️ Estructura
 
 [[Pantallas 1.canvas|Pantallas 1]]
-    PC -->|HDMI| TX1[TX HDMI #1]
-    PC -->|HDMI| TX2[TX HDMI #2]
-    PC -->|HDMI| TX3[TX HDMI #3]
-    
-    TX1 -->|CAT6| SW[Switch Gigabit]
-    TX2 -->|CAT6| SW
-    TX3 -->|CAT6| SW
-
-    SW -->|CAT6| RX1[RX HDMI #1 - TV1]
-    SW -->|CAT6| RX2[RX HDMI #2 - TV2]
-    SW -->|CAT6| RX3[RX HDMI #3 - TV3]
-    SW -->|CAT6| RX4[RX HDMI #4 - TV4]
-    SW -->|CAT6| RX5[RX HDMI #5 - Conferencistas]
-    SW -->|CAT6| RX6[RX HDMI #6 - Proyector]
 
 ## ✅ Ventajas
 
@@ -51,28 +36,18 @@ HDMI over IP permite enviar señales de video HDMI a través de una red local us
 ## ⚙️ Equipamiento esencial
 
 #### 1. Transmisor HDMI over IP (TX)
-
-[SIIG CE‑H25D11‑S2 HDMI over IP Transmitter]()
-
-Convierte una señal HDMI de tu PC (OBS/letras, countdown, proyector) en IP.
-
-Extiende hasta 120 m por CAT6 de manera confiable.
-
-Necesitarás 3 unidades (una por cada señal diferente).
-
-
+	- SIIG CE‑H25D11‑S2 HDMI over IP Transmitter
+	- Convierte una señal HDMI de tu PC (OBS/letras, countdown, proyector) en IP.
+	- Extiende hasta 120 m por CAT6 de manera confiable.
+	- Necesitarás 3 unidades (una por cada señal diferente).
 
 ---
 
 #### 2. Receptor HDMI over IP (RX)
 
-[Lornceng HDMI over IP Receiver]()
-
-Recibe la señal IP y la convierte de nuevo a HDMI para cada pantalla.
-
-Ideal para tus 4 TVs del auditorio, 2 de plataforma y el proyector → 7 unidades.
-
-
+	- Lornceng HDMI over IP Receiver
+	- Recibe la señal IP y la convierte de nuevo a HDMI para cada pantalla.
+	- Ideal para tus 4 TVs del auditorio, 2 de plataforma y el proyector → 7 unidades.
 
 ---
 

@@ -20,29 +20,16 @@ Se utiliza la red local (LAN) para distribuir contenido desde OBS a múltiples d
 ## 🖥️ Diagrama de red
 [[Pantallas 2.canvas|Pantallas 2]]
 
-    PC -->|LAN| SW[Switch Gigabit]
-    
-    SW -->|LAN| TV1[Smart TV - Hall]
-    SW -->|LAN| TV2[Smart TV - Auditorio]
-    SW -->|LAN| TV3[Smart TV - Hall]
-    SW -->|LAN| TV4[Smart TV - Auditorio]
-    SW -->|LAN| TV5[Smart TV - Conferencista]
-    SW -->|LAN| TV6[Smart TV - Proyector]
-
-    PC -->|NDI/RTMP/VLC| TV1
-    PC -->|NDI/RTMP/VLC| TV2
-    PC -->|NDI/RTMP/VLC| TV3
-    PC -->|NDI/RTMP/VLC| TV4
-    PC -->|NDI/RTMP/VLC| TV5
-    PC -->|NDI/RTMP/VLC| TV6
-
 ## 🔧 Configuración OBS (PC 1)
 
 - Instalar OBS NDI Plugin
 - Crear una escena para las letras.
 - Activar NDI Output (Tools > NDI Output Settings).
 - Nombrar la salida como “Letras-TV”.
-- Las Raspberry o dispositivos deben tener un receptor NDI (por ejemplo: NDI Monitor, NDI HX Player, o navegador con OBS.Ninja).
+- Convertir la senal ndi en rtmp o ip normal
+	- desde las tv con un raspberry o con tvbox utilizar vlc que captura la senal ndi
+	- convertir desde las computadoras la senal ndi en ip, transmitiendo la senal desde obs o otro programa que permita enviar la senal por ip.
+- en las tv, en un browser abrir la url/ip que esta siendo enviada desde la pc.
 
 ## ✅ Ventajas
 
