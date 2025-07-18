@@ -46,3 +46,59 @@ HDMI over IP permite enviar señales de video HDMI a través de una red local us
 - Requiere hardware físico específico.
 - No permite personalización por pantalla.
 - Más costoso si hay muchas pantallas.
+
+
+## ⚙️ Equipamiento esencial
+
+#### 1. Transmisor HDMI over IP (TX)
+
+[SIIG CE‑H25D11‑S2 HDMI over IP Transmitter]()
+
+Convierte una señal HDMI de tu PC (OBS/letras, countdown, proyector) en IP.
+
+Extiende hasta 120 m por CAT6 de manera confiable.
+
+Necesitarás 3 unidades (una por cada señal diferente).
+
+
+
+---
+
+#### 2. Receptor HDMI over IP (RX)
+
+[Lornceng HDMI over IP Receiver]()
+
+Recibe la señal IP y la convierte de nuevo a HDMI para cada pantalla.
+
+Ideal para tus 4 TVs del auditorio, 2 de plataforma y el proyector → 7 unidades.
+
+
+
+---
+
+#### 3. Switch Gigabit administrable
+
+Basado en opciones disponibles:
+
+**TP‑Link TL‑SG3210 (8 puertos Gigabit administrable)**  
+
+Perfecto para instalar en cabina: 3 TX + 7 RX = 10 dispositivos (8 puertos + 2 uplinks, o usás uno adicional de 16 puertos bajo presupuesto).
+
+Permite gestión de tráfico IGMP Multicast, ideal para HDMI over IP.
+
+
+
+Recomendado: versión de 16 puertos si agregás equipos o PoE en el futuro.
+
+
+---
+
+### 📑 Resumen del sistema
+
+Componente	Cantidad	Función principal
+
+SIIG CE‑H25D11‑S2 TX	3	Envía señales de tu PC (OBS, countdown, letras) a red IP
+Lornceng RX	7	Recibe y convierte la señal IP en HDMI para cada pantalla/proyector
+TP‑Link TL‑SG3210 Switch	1	Conecta todos los TX y RX en red local. Permite gestión Multicast
+Cable CAT6 (armado)	++	Conecta todos TX/RX al switch (tienes el cable, te explico abajo)
+Fichas RJ45 en estándar T–568B	--	Para crimpado correcto según norma —Pon cada par en el orden B estándar.
