@@ -1,3 +1,12 @@
+### Conexion actual de cables
+- 1: Proyector
+- 2: Monitor plataforma lado audio izquierdo
+- 3: Tv Auditorio lado izquierdo
+- 4: Monitor plataforma lado derecho
+- 5: Tv auditorio lado derecho
+- 6: Tv hall Oficina
+- NADA: Tv Hall de frente
+
 # 📡 Distribución de Contenidos para Evento
 
 Esta documentación detalla dos arquitecturas para distribuir contenido desde OBS (y otras fuentes) a múltiples pantallas en un evento o auditorio.
