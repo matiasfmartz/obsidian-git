@@ -3,7 +3,7 @@
 - 2: Monitor plataforma lado audio izquierdo
 - 3: Tv Auditorio lado izquierdo
 - 4: Monitor plataforma lado derecho
-- 5: Tv auditorio lado derecho
+- 5: Tv auditorio lado derecho 
 - 6: Tv hall Oficina
 - NADA: Tv Hall de frente
 
@@ -20,7 +20,6 @@ Esta documentación detalla dos arquitecturas para distribuir contenido desde OB
 | Proyector Principal           | PC 2       | Letras de Holyrics   |
 
 ---
-
 ## Opciones
 
 1. [HDMI over IP](hdmi%20over%20ip.md)
