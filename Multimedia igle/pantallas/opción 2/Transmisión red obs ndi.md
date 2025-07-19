@@ -29,6 +29,7 @@ Se utiliza la red local (LAN) para distribuir contenido desde OBS a múltiples d
 - Convertir la senal ndi en rtmp o ip normal
 	- desde las tv con un raspberry o con tvbox utilizar vlc que captura la senal ndi
 	- convertir desde las computadoras la senal ndi en ip, transmitiendo la senal desde obs o otro programa que permita enviar la senal por ip.
+		- luego de convertir ndi a rtmp, nginx convierte rtmp a hsl que es accesible desde los demas dispositivos con una ip. Todo esto se configura en el archivo nginx.conf -> plantilla [[nginx]]
 - en las tv, en un browser abrir la url/ip que esta siendo enviada desde la pc.
 
 ## ✅ Ventajas

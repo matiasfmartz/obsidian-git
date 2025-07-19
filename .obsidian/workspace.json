@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multimedia igle/pantallas/nginx.md",
+                "file": "Multimedia igle/pantallas/opción 2/Transmisión red obs ndi.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nginx"
+              "title": "Transmisión red obs ndi"
             }
           }
         ]
@@ -176,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c90542baff4f3780",
+  "active": "e25b4e7eac7e3f54",
   "lastOpenFiles": [
     "Multimedia igle/pantallas/Conexion Pantallas.md",
     "Multimedia igle/pantallas/nginx.md",
